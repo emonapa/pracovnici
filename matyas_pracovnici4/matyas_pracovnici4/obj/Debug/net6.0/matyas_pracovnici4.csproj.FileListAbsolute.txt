@@ -1,0 +1,15 @@
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\bin\Debug\net6.0\matyas_pracovnici4.exe
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\bin\Debug\net6.0\matyas_pracovnici4.deps.json
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\bin\Debug\net6.0\matyas_pracovnici4.runtimeconfig.json
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\bin\Debug\net6.0\matyas_pracovnici4.dll
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\bin\Debug\net6.0\matyas_pracovnici4.pdb
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.csproj.AssemblyReference.cache
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.AssemblyInfoInputs.cache
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.AssemblyInfo.cs
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.csproj.CoreCompileInputs.cache
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.dll
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\refint\matyas_pracovnici4.dll
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.pdb
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\matyas_pracovnici4.genruntimeconfig.cache
+C:\Users\mvase\source\repos\matyas_pracovnici4\matyas_pracovnici4\obj\Debug\net6.0\ref\matyas_pracovnici4.dll

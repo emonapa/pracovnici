@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "matyas_pracovnici4/1.0.0": {
+        "runtime": {
+          "matyas_pracovnici4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matyas_pracovnici4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
